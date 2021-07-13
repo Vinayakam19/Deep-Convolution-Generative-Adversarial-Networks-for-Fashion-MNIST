@@ -1,4 +1,4 @@
-# GAN
+# Deep Convolution Generative Adversarial Networks for MNIST dataset
 This repository contains my ipynb notebook for implementing Deep Convolution Generative adversarial networks.We used MNIST images to train the DCGAN
 
 About GAN :
